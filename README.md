@@ -18,16 +18,16 @@ Tkinter
 
 ## How to use
 Clone the repo:
-\`\`\`bash
+```bash
 git clone https://github.com/MaxAd1234/python-calculator-using-parsing-techniques.git
-\`\`\`
+```
 
 Run with Tkinter UI:
-\`\`\`bash
+```bash
 python main.py
-\`\`\`
+```
 
 Run with console output (for own expressions, change them in the `main` method):
-\`\`\`bash
+```bash
 python calculator.py
-\`\`\`
+```
